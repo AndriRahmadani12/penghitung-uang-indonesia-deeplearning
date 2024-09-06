@@ -1,0 +1,16 @@
+path: '../Data'
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+    0: Rp1000
+    1: Rp10000
+    2: Rp100000
+    3: Rp2000
+    4: Rp20000
+    5: Rp5000
+    6: Rp50000
+
+
+
