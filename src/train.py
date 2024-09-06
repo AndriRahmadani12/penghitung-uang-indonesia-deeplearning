@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # Load a model
-model = YOLO("yolov8n.yaml")  # build a new model from scratch
+model = YOLO("yolov8n.yaml")
 
 if __name__ == '__main__':
     # Use the model
